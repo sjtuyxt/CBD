@@ -1,0 +1,16 @@
+gnuplot ./B-1-8.gnu
+gnuplot ./B-1-16.gnu
+gnuplot ./B-1-32.gnu
+gnuplot ./B-1-64.gnu
+gnuplot ./G-1-8.gnu
+gnuplot ./G-1-16.gnu
+gnuplot ./G-1-32.gnu
+gnuplot ./G-1-64.gnu
+gnuplot ./B-2-4.gnu
+gnuplot ./B-2-6.gnu
+gnuplot ./B-2-8.gnu
+gnuplot ./B-2-10.gnu
+gnuplot ./G-2-4.gnu
+gnuplot ./G-2-6.gnu
+gnuplot ./G-2-8.gnu
+gnuplot ./G-2-10.gnu
